@@ -4,6 +4,7 @@
  * print_times_table - prints time table of n
  * @n: takes number input
  */
+static void print_times_table(int n);
 
 void print_times_table(int n)
 {
